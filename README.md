@@ -1,1 +1,2 @@
 # Space-Invaders
+a game where the player can shoot enemies with a spaceship. it has two levels, a multiplayer version and a player vs computer version. The game keeps going  and calculates the score as long as the player keeps shooting the space invaders. If the spaceship touches one of the enemies or another spaceship in case of playing the multiplayer version, the game ends and the player loses.
